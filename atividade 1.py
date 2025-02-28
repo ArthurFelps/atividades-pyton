@@ -1,9 +1,9 @@
-nome= "Arthur"
-idade=20 
-altura = 178
-peso=68
+NOME= "Arthur"
+IDADE=20 
+ALTURA = 178
+PESO=68
 
-print("Nome:", nome)
-print("Idade:", idade)
-print("Altura:", altura, "cm")
-print("Peso:", peso, "kg")
+print("Nome:", NOME)
+print("Idade:", IDADE)
+print("Altura:", ALTURA, "cm")
+print("Peso:", PESO, "kg")
